@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>ᴍ ᴀ ᴀ ʜ ɪ</b>
+  <b>★彡[ᴋʀɪꜱʜɴᴀ ᴄʜᴏᴜᴅʜᴀʀʏ]彡★</b>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish216&label=Profile%20views&color=E95420&style=flat-square" alt="Krishna" /> </p>
