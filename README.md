@@ -6,11 +6,11 @@
 
 <p><a href="https://t.me/krishna2621"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="100""/></a></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishk2126&theme=dracula" alt="krishna" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishk216&theme=dracula" alt="krishna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishk2126&show_icons=true&theme=midnight-purple&locale=en" alt="krishk2126" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishk216&show_icons=true&theme=midnight-purple&locale=en" alt="krishk216" /></p>
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishk2126&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishk2126" width="400"/></p>
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishk216&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishk216" width="400"/></p>
 
 
   
