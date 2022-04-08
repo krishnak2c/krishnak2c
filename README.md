@@ -1,17 +1,35 @@
-### Hi there 👋
+<h1 align="center">
+  <b>ᴍ ᴀ ᴀ ʜ ɪ</b>
+</h1>
 
-<!--
-**krishk216/krishk216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish216&label=Profile%20views&color=E95420&style=flat-square" alt="Krishna" /> </p>
 
-Here are some ideas to get you started:
+<p><a href="https://t.me/krishna2621"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="100""/></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishk2126&theme=dracula" alt="krishna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishk2126&show_icons=true&theme=midnight-purple&locale=en" alt="krishk2126" /></p>
+
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishk2126&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishk2126" width="400"/></p>
+
+
+  
+<h1 align="center">
+  <b>Languages, Tools, clouds and familiar os:</b>
+</h1>
+  
+<p align="center">
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset="">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub_Actions-092E20?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset="">
+<img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
+<img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
+</p>
+  
+  
+  
 ![](https://hit.yhype.me/github/profile?user_id=103250360)
