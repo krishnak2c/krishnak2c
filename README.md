@@ -12,7 +12,9 @@
 
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishk216&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishk216" width="400"/></p>
 
-
+<a href="https://github.com/krishk216/github-stats">
+<img src="https://github.com/krishk216/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/krishk216/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   
 <h1 align="center">
   <b>Languages, Tools, clouds and familiar os:</b>
