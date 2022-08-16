@@ -2,21 +2,21 @@
   <b>★彡[ᴋʀɪꜱʜɴᴀ ᴄʜᴏᴜᴅʜᴀʀʏ]彡★</b>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish216&label=Profile%20views&color=E95420&style=flat-square" alt="Krishna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnak2c&label=Profile%20views&color=E95420&style=flat-square" alt="Krishna" /> </p>
 
 <p><a href="https://t.me/krishna2621"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="100""/></a></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishk216&theme=dracula" alt="krishna" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishnak2c&theme=dracula" alt="krishna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishk216&show_icons=true&theme=midnight-purple&locale=en" alt="krishk216" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnak2c&show_icons=true&theme=midnight-purple&locale=en" alt="krishnak2c" /></p>
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishk216&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishk216" width="400"/></p>
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishnak2c&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishnak2c" width="400"/></p>
 
-<a href="https://github.com/krishk216/github-stats">
-<img src="https://github.com/krishk216/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/krishk216/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/krishnak2c/github-stats">
+<img src="https://github.com/krishnak2c/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/krishnak2c/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishk216&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishnak2c&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h1 align="center">
   <b>Languages, Tools, clouds and familiar os:</b>
