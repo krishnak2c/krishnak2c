@@ -6,6 +6,8 @@
 
 <p><a href="https://t.me/krishna2621"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="100""/></a></p>
 
+<img align="center" src="./assets/git.png?raw=true"/>
+
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishnak2c&theme=dracula" alt="krishna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnak2c&show_icons=true&theme=midnight-purple&locale=en" alt="krishnak2c" /></p>
