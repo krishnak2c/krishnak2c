@@ -8,7 +8,7 @@
 
 <img align="center" src="./assets/git.png?raw=true"/>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishnak2c&theme=dracula" alt="krishna" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishnak2c&theme=dracula" alt="Krishna Choudhary" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnak2c&show_icons=true&theme=midnight-purple&locale=en" alt="krishnak2c" /></p>
 
