@@ -36,6 +36,5 @@
 <img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 </p>
   
-  
-  
+![github contribution grid snake animation](https://raw.githubusercontent.com/krishnak2c/krishnak2c/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
 ![](https://hit.yhype.me/github/profile?user_id=103250360)
