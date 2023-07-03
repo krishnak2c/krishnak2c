@@ -12,8 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnak2c&show_icons=true&theme=midnight-purple&locale=en" alt="krishnak2c" /></p>
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishnak2c&theme=react-dark&custom_title=Contribution+Graph" alt="https://github.com/krishnak2c" width="400"/></p>
-
 <a href="https://github.com/krishnak2c/github-stats">
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
