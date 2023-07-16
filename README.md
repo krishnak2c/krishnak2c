@@ -10,7 +10,6 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=krishnak2c&theme=dracula" alt="Krishna Choudhary" /></p>
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnak2c)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/krishnak2c/github-stats">
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
