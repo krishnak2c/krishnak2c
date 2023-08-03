@@ -33,4 +33,4 @@
 <img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 </p>
   
-![snake gif](https://github.com/krishnak2c/krishnak2c/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([https://github.com/krishnak2c/krishnak2c/blob/output/github-contribution-grid-snake.gif](https://github.com/krishnak2c/krishnak2c/blob/2c9b887b23f5137650a8345d9f3d3fae9ef7645e/github-contribution-grid-snake.svg)https://github.com/krishnak2c/krishnak2c/blob/2c9b887b23f5137650a8345d9f3d3fae9ef7645e/github-contribution-grid-snake.svg)
