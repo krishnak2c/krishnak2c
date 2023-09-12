@@ -15,7 +15,7 @@
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krishnak2c&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishnak2c)](https://git.io/streak-stats)
 
 <h1 align="center">
   <b>Languages, Tools, clouds and familiar os:</b>
