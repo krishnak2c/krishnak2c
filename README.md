@@ -14,7 +14,7 @@
 <a href="https://github.com/krishnak2c/github-stats">
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/krishnak2c/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
- 
+
 [![GitHub Streak](https://github-readme-streak-stats-lemon.vercel.app?user=krishnak2c&theme=blue-green)](https://git.io/streak-stats)
 
 <h1 align="center">
