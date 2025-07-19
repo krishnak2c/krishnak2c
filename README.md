@@ -13,7 +13,7 @@
 
 > Enjoying my work? A coffee would be nice! :)
 
-<a href="https://www.buymeacoffee.com/DrDisagree"><img src="image/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
+<a href="https://www.buymeacoffee.com/DrDisagree"><img src="images/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
 
 <h2 align="left" id="krishnak2c-stats">Activities & Stats</h2>
 
