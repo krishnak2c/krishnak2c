@@ -4,7 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnak2c&label=Profile%20views&color=E95420&style=flat-square" alt="Krishna" /> </p>
 
-<p><a href="https://t.me/krishnak2c"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="100""/></a></p>
+<h2 align="left" id="krishnak2c-social">Connect With Me</h2>
+
+> You can connect with me in following ways.
+
+[<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white">](https://www.linkedin.com/in/drdisagree) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/krishnak2c) [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/krishnak2c) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:krishchoudhary2126@gmail.com)
+<h2 align="left" id="krishnak2c-social">Support Me</h2>
+
+> Enjoying my work? A coffee would be nice! :)
+
+<a href="https://www.buymeacoffee.com/DrDisagree"><img src="image/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
 
 <h2 align="left" id="krishnak2c-stats">Activities & Stats</h2>
 
@@ -47,21 +56,6 @@
     </td>
   </tr>
 </table>
-<h1 align="center">
-  <b>Languages, Tools, clouds and familiar os:</b>
-</h1>
-  
-<p align="center">
-<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt="">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset="">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset="">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset="">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub_Actions-092E20?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset="">
-<img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
-<img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
-</p>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnak2c/krishnak2c/output/github-contribution-grid-snake-dark.svg">
