@@ -14,11 +14,11 @@ jobs:
         persist-credentials: false
         fetch-depth: 0 
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: actions-js/push@main
       with:
         github_token: ${{ secrets.GH_TOKEN }}
         empty: true
         message: "Stats Updated"
         author_email: "krishchoudhary2126@gmail.com"
         author_name: "Krishna Choudhary"
-        branch: "master"
+        branch: "main"
