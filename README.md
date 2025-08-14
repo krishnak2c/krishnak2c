@@ -58,8 +58,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnak2c&label=Profile%20views&color=E95420&style=flat-square" alt="Krishna" /> </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnak2c&theme=dracula)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnak2c/krishnak2c/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnak2c/krishnak2c/output/github-contribution-grid-snake.svg">
