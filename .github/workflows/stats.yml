@@ -14,7 +14,7 @@ jobs:
         persist-credentials: false
         fetch-depth: 0 
     - name: Commit & Push changes
-      uses: actions-js/push@main
+      uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GH_TOKEN }}
         empty: true
